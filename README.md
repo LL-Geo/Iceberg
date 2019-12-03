@@ -1,6 +1,7 @@
 # Iceberg
 Calculate different isostatic/flexure compensation depth from topography
-There are three kind of isostatic compensation theory due to surface load:
+
+# There are three kind of isostatic compensation theory due to surface load:
 
 1. Airy Isostasy: Topography is compensated by the variation of crust thickness with same density
 
