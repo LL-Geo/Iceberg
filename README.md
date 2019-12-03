@@ -1,4 +1,4 @@
-# Isostatic
+# Iceberg
 Calculate different isostatic/flexure compensation depth from topography
 There are three kind of isostatic compensation theory due to surface load:
 
